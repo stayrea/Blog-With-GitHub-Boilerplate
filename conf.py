@@ -9,8 +9,8 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "stayrea/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
@@ -18,7 +18,7 @@ site_name = "StayreoのBlog"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Stayreo"
-email = "stayreo@gmail.com"
+email = "stayrea@gmail.com"
 author_homepage = "https:/github.com/stayrea"
 description = "Valar Morghulis"
 key_words = ['stayrea', 'Valar Morghulis', 'stayreo', 'blog']
@@ -38,7 +38,7 @@ external_links = [
 nav = [
     {
         "name": "首页",
-        "url": "${site_prefix}",
+        "url": "${site_prefix}"豆瓣
         "target": "_self"
     },
     {
@@ -60,9 +60,9 @@ social_links = [
         "icon": "gi gi-twitter"
     },
     {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
+        "name": "豆瓣",
+        "url": "https://www.douban.com/people/34946966/",
+        "icon": "gi gi-douban"
     },
     {
         "name": "Weibo",
