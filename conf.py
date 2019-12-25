@@ -31,8 +31,8 @@ external_links = [
     },
     {
         "name": "",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "url": "https://stayrea.github.io/Blog-With-GitHub-Boilerplate/",
+        "brief": "Stayreo の Blog"
     }
 ]
 nav = [
