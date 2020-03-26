@@ -27,7 +27,7 @@ external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "brief": "Valar Morghulis."
     },
     {
         "name": "",
@@ -56,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/",
         "icon": "gi gi-twitter"
     },
     {
         "name": "豆瓣",
-        "url": "https://www.douban.com/people/34946966/",
+        "url": "https://www.douban.com/people//",
         "icon": "gi gi-douban"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/",
         "icon": "gi gi-weibo"
     }
 ]
